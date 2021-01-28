@@ -1,0 +1,60 @@
+title: Team.꼬리가게 연구소 블로그
+email: https://discord.gg/MSa2h4QqGH
+description:  |
+  Share, 누구나 사용할수있는 오픈소스를 제작하는것이 목표인 팀입니다.
+baseurl: ''
+url: 'http://tech.kakao.com'
+timezone: Asia/Seoul 
+
+repository: popop098/kakao.github.io
+
+permalink: /:year/:month/:day/:title/
+
+excerpt_separator: <!--more-->
+
+markdown: kramdown
+
+krandown:
+  input: GFM
+  highlighter: rouge
+
+plugins:
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: '/page/:num/'
+
+collections:
+  authors:
+    output: true
+    permalink: /authors/:path/
+  tags:
+    output: true
+    permalink: /tags/:path/
+
+defaults:
+  - scope:
+      path: ''
+      type: authors
+    values:
+      layout: author
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+
+exclude: [README.md, Gemfile, Gemfile.lock]
+
+keep_files: [assets, files]
+github: [metadata]
+# iolo's custom
+author: popop098@naver.com
+image: '/assets/images/default_blog_cover.jpg'
+asset_url: /assets
+#asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
+#asset_url: //t1.daumcdn.net/osa/blog/assets
+twitter:
+  username: tfam_is_love
+github_url:
+  username: popop098
