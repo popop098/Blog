@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: '태시아봇을 소개합니다.'
 author: 가위
 date: 2021-01-28 08:27
