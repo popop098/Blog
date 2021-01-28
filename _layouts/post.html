@@ -35,6 +35,9 @@ comments: true
       <span>Read more posts by this author</span>
     </a>
   </div>
+  {% if page.comments != false %}
+    {% include comments.html %}
+  {% endif %}  
 </div>
 
 <div id="post-links" class="container">
@@ -57,9 +60,7 @@ comments: true
   </div>
   {% endif %}
 </div>
-{% if page.comments != false %}
-  {% include comments.html %}
-{% endif %}  
+
 <div id="lightbox">
   <div id="lightbox-image"></div>
 </div>
