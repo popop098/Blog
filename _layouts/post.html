@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <div id="navbar" class="container">
   <h5><a id="link-back" href="/">Back to Posts</a></h5>
@@ -60,3 +61,6 @@ layout: default
 <div id="lightbox">
   <div id="lightbox-image"></div>
 </div>
+{% if page.comments != false %}
+  {% include disqus_comments.html %}
+{% endif %}  
