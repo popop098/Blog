@@ -9,9 +9,9 @@ tags: [intro]
 
 태시아봇은 비주얼 노블 제작사인 (주)테일즈샵의 마스코트 '태시아'를 모티브로 하여 탄생한 봇입니다.
 
-![테일즈샵로고 (이미지출처: 나무위키)](https://namu.wiki/jump/8ed9yv7M37KVn%2Bx2KU%2B3e7SnYqVwutQhPrZrDTnPLJGcMrF0MTxf6R8xaxxmJx9874qI%2FIyLnEpitc9eLajWEr7J9wtLomDU%2Boumg6Git5c%3D)
+![테일즈샵로고 (이미지출처: 나무위키)](https://media.discordapp.net/attachments/774801225807429642/804485214516150282/d7a8f95ff465228cc4fcee0cb5ba1d08e0f5b3c176a73e39ff05d70988302c1d80d7ecb15d571e40099aa963bd9972c31792.png)
 
-![태시아 (이미지출처: 나무위키)](https://namu.wiki/jump/LPEvJUAnH5AzYWchTm8%2B5ZJolZncberoK91WdKFaFcizfeiQmA81%2FPD92TXlW9hWf2H1ztLFdWtuBESAf9JukA%3D%3D)
+![태시아 (이미지출처: 나무위키)](https://media.discordapp.net/attachments/774801225807429642/804485571715137556/985d7db8c8c07203872681d39288253860282b5e1e59a9b2dfbdb1fadf9c8f075359711b811c9ef507237967118b710c357b.png?width=362&height=644)
 
 
 현재 태시아봇은 약 220서버에 접속하여 사용되어지고있습니다.
