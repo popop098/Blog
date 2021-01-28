@@ -27,7 +27,7 @@ tags: [intro]
 
 끝으로 프리미엄기능으로 더욱 차별화된 서비스를 제공하고있습니다.
 
-![프리미엄 혜택](https://media.discordapp.net/attachments/774801225807429642/804252141275185162/unknown.png)
+![프리미엄 혜택](https://media.discordapp.net/attachments/774801225807429642/804490669719814155/unknown.png)
 
 
 **지금바로 초대하셔서 사용해보세요!**
