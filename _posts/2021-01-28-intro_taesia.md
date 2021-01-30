@@ -32,4 +32,4 @@ tags: [intro]
 
 **지금바로 초대하셔서 사용해보세요!**
 
-[초대하기](https://discord.com/oauth2/authorize?client_id=728820788278329424&permissions=8&scope=bot)
+[[초대하기](https://discord.com/oauth2/authorize?client_id=728820788278329424&permissions=8&scope=bot)]
