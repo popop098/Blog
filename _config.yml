@@ -3,10 +3,10 @@ email: https://discord.gg/MSa2h4QqGH
 description:  |
   Share, 누구나 사용할수있는 오픈소스를 제작하는것이 목표인 팀입니다.
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: 'https://tales-blog.vercel.app/'
 timezone: Asia/Seoul 
 
-repository: popop098/kakao.github.io
+repository: popop098/blog
 
 permalink: /:year/:month/:day/:title/
 
